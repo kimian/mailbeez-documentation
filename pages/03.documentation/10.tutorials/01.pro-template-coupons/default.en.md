@@ -25,15 +25,15 @@ In this tutorial you will learn how to create template coupons and configure the
 
 ## Personalized Coupons
 
-The MailBeez [Coupon Generator](/documentation/configbeez/config_coupon_engine) is a sub-module of all MailBeez coupon modules. It allows you to generate and send personalized coupons.
+The MailBeez [Coupon Engine](/documentation/configbeez/config_coupon_engine) is a sub-module of all MailBeez coupon modules. It allows you to generate and send personalized coupons.
 
 We'll use the module [Birthday Greetings Coupon](/documentation/mailbeez/coupon_birthday) as an example, to show the configuration steps for setting up coupons. This procedure can be applied to all other MailBeez modules with a couponing function.
 
 ## How it works
 
-The MailBeez Coupon Generator generates new coupons based on a configured template. The generated coupon is a copy of the template coupon, but the **expiration date** and **coupon code** are generated individually. This ensures that every customer receives a unique coupon code that is only valid as long as has been configured in the respective module (for example, "Birthday Greetings Coupon"). 
+The MailBeez Coupon Engine generates new coupons based on a configured template. The generated coupon is a copy of this template coupon, but the **expiration date** and **coupon code** are generated individually. This ensures that every customer receives a unique coupon code that is only valid as long as has been configured in the respective module (for example, "Birthday Greetings Coupon"). 
 
-## Creating a Template Coupon
+## Creating a template coupon
 
 >>>>> Please ensure that the coupon system is activated (osCommerce: a [compatible coupon addon](/documentation/configbeez/config_coupon_engine) must be installed)
 
@@ -59,10 +59,9 @@ Now, save the configuration for this module.
 
 In the view of the right you see at the bottom that the template coupon has been activated.
 
-
 ## Find out more
 
-### Testing the coupon generator
+### Testing coupon generation
 
 You can test the generation of coupons using the "Simulation" mode. Ensure that MailBeez is in simulation mode by clicking the button in the upper right corner of the window. Now run the module "Birthday Greetings Coupon". There are "real" emails generated, but they are all configured and sent to the simulation e-mail address and marked with **[SIM]** in the subject.
 
@@ -72,9 +71,9 @@ In the coupon system you will find for each email a generated coupon. The simula
 
 In simulation mode, coupons can be deleted in their respective modules with the structure appearing button. Alternatively, you can use the delete function in `MailBeez > Configuration > Certificate` .
 
-### Deleting old Coupons
-Over time, thousands of coupons will be generated. Under `MailBeez > Configuration > Coupon Engine` contains a handy "cleanup" function to delete expired coupons.
+### Deleting old coupons
 
+Over time, thousands of coupons will be generated. Under `MailBeez > Configuration > Coupon Engine` contains a handy "cleanup" function to delete expired coupons.
 
 ### Find coupons
 
