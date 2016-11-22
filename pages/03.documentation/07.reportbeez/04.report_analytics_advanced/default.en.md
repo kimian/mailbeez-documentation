@@ -2,7 +2,7 @@
 # http://learn.getgrav.org/content/headers
 title: MailBeez Analytics Advanced
 slug: report_analytics_advanced
-date: 28-09-2016
+date: 22-11-2016
 published: true
 template: docs
 # theme: false
