@@ -35,9 +35,24 @@ metadata:
 #  last_modified: true
 ---
 
->>>>> The pre-integration of MailBeez didn't made it into Modified-Shop V2.0.0.0 - but it is planed for the next update. Until then please download <http://mailbeez-support.com/cloudfiles/modified-shop-2.00r6510-delta.zip> unzipp and merge with the  Modified-Shop V2.0.0.0 files.
+##Integration Packs
 
-MailBeez is pre-integrated with **Modified-Shop V2.x** - please activate the MailBeez module through the store administration interface.
+Using the matching integration pack MailBeez will integrate itself seamlessly into your Modified-Shop 2.0.
+
+####Modified-Shop V2.0.0
+<http://mailbeez-support.com/cloudfiles/modified-shop-2.00r6510-delta.zip> 
+
+####Modified-Shop V2.0.1
+<http://mailbeez-support.com/cloudfiles/modified-shop_2.0.1.0-r10403-delta.zip> 
+
+
+##Installation
+>>>>> In case you renamed the `/admin` directory, please move the files from `admin/` into the renamed directory
+
+Please start with downloading the matching integration pack. Then unzip the pack and merge the files into the file/folder structure of your Modified-Shop.
+
+
+In you Modified-Shop Administration > Partner Modules > MailBeez you will be able to activate the integration and finalize the intstallation of MailBeez.
 
 
 [plugin:content-inject](/content_blocks/run_installer)
