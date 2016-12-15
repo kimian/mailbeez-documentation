@@ -1,11 +1,10 @@
 ---
 # http://learn.getgrav.org/content/headers
-title: [ZenCart] Prüfung der Kunden-Authorisierung
+title: '[ZenCart] Prüfung der Kunden-Authorisierung'
 slug: filter_check_customers_authorization_zencart
 date: 15-12-2016
 published: true
 publish_date: 15-12-2016
-# unpublish_date: 16-10-2012
 template: docs
 # theme: false
 visible: false
