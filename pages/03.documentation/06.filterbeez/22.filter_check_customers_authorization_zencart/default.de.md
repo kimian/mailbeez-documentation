@@ -7,7 +7,7 @@ published: true
 publish_date: 15-12-2016
 template: docs
 # theme: false
-visible: false
+visible: true
 summary:
     enabled: true
     format: short
