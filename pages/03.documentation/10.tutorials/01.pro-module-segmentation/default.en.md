@@ -45,7 +45,7 @@ Let’s walkthrough an example to better understand how we would accomplish a ta
 
 ##### Promotion A - Bicycle Tire Campaign
 
-We want to send an awesome newsletter with a “sweet deal” for our awesome customers. Our Newsletter is gonna accomplish two things: We’ll be reminding customers who bought a men’s bicycle, that now might be a good time to replace the tires on it. At the same time, we’re gonna promote a sweet deal on a new set of bicycle tires for those customers who bought the bicycle within a a specific time frame. We’ll target customers in Denmark, in the capital region specifically, which we know uses their bicycles year around in their daily commute to and from work.  So their tires should be well worn by now. 
+We want to send an awesome newsletter with a “sweet deal” for our awesome customers. Our Newsletter is gonna accomplish two things: We’ll be reminding customers who bought a men’s bicycle, that now might be a good time to replace the tires on it. At the same time, we’re gonna promote a sweet deal on a new set of bicycle tires for those customers who bought the bicycle within a a specific time frame. We’ll target customers in the U.S.A., in the southern region specifically, which we know uses their bicycles year around in their daily commute to and from work.  So their tires should be well worn by now. 
 
 ### Step 1 - Create a dynamic list of recipients
 First, we need to create a list of customers. A list tells us which customers will receive this email. A List in Mailbeez is also the place where you’ll do your segmentation... in other words, which customer characteristics you'll target for this specific messaging.
@@ -97,11 +97,11 @@ A new window opens listing the customers matching the segmentation criteria. Cli
 
 ##### What did we do? 
 
-In the `Location` section, we targeted customers in <span style="color:#303030; font-family: 'courier';">Denmark</span> only. We further limited customers in Denmark to the regions <span style="color:#303030; font-family: 'courier';">Devon, Karela,</span> and <span style="color:#303030; font-family: 'courier';">Sachsen</span>. 
+In the `Location` section, we targeted customers in <span style="color:#303030; font-family: 'courier';">United States</span> only. We further limited customers in the U.S. to the regions <span style="color:#303030; font-family: 'courier';">Alabama, Florida, Georgia,</span> and <span style="color:#303030; font-family: 'courier';">South Carolina</span>. 
 
 Because we know that the product is a <span style="color:#303030; font-family: 'courier';">Men’s Touring Bicycle</span>, in the `Customer section`, we will only send to <span style="color:#303030; font-family: 'courier';">male</span> customers. Sure, we could also just send to all customers that has purchased the Men’s bicycle, but I want to show that you do have the option to segment based on `Gender` as well. 
 
-In section `Products`, we decide which products are relevant for this customer group. The product is <span style="color:#303030; font-family: 'courier';">Men’s Touring Bicycle</span>. However, we don’t want customers that have recently purchased <span style="color:#303030; font-family: 'courier';">27’ bicycle tires</span> because they may have purchased these to use as replacements already. Besides, this is the product we’ll offer with our “sweet deal”. So we excluded this product in `Products NOT purchased`.
+In section `Products`, we decide which products are relevant for this customer group. Again, we want to target customers that purchased the <span style="color:#303030; font-family: 'courier';">Men’s Touring Bicycle</span>. However, we don’t want customers that have recently purchased <span style="color:#303030; font-family: 'courier';">27’ bicycle tires</span> because they may have purchased these to use as replacements already. Besides, this is the product we’ll offer with our “sweet deal”. So we excluded this product in `Products NOT purchased`.
 
 Next, we want our “sweet deal” to go to past customers that have had enough time to use their bicycle and wear the tires a bit. As such, they’re more likely to be ready to replace the original tires. So in the `Orders` section we set the date in `Last Order between` field to <span style="color:#303030; font-family: 'courier';">01-01-2015</span>, to target customers that have purchased a bicycle on or after this date. We then limit it to bicycles purchased before <span style="color:#303030; font-family: 'courier';">01-01-2016</span> which we input into `...and this date` field.
 
