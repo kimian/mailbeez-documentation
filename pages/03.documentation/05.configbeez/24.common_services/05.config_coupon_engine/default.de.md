@@ -165,3 +165,22 @@ TABLE_DISCOUNT_CODES
 TABLE_CUSTOMERS_TO_DISCOUNT_CODES
 
 ```
+
+
+Falls Sie den Fork **Discount Codes BS** 
+<http://addons.oscommerce.com/info/9460> nutzen, ist folgendes zu beachten:
+
+Dieses Modul nutzt nicht die üblichen Konstanten, um Tabellen-Namen zu definieren. Daher bitte eine neue Datei
+
+`/mailhive/common/local/dc.php` 
+
+mit folgendem Inhalt anlegen:
+
+```php
+<?php
+define('TABLE_DISCOUNT_CODES', 'discount_codes');
+define('TABLE_CUSTOMERS_TO_DISCOUNT_CODES', 'customers_to_discount_codes');
+define('FILENAME_DISCOUNT_CODES', 'discount_codes.php');
+```
+
+Hierdurch werden die fehlenden Konstanten definiert.

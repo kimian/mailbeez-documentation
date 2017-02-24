@@ -151,6 +151,8 @@ TABLE_DISCOUNT_COUPONS_TO_ZONES
 
 [http://high-quality-php-coding.com](http://high-quality-php-coding.com)
 
+
+
 **Tables**:
 
 If you use a DC-based voucher system, you should find the following tables in the table definition:
@@ -162,4 +164,21 @@ TABLE_DISCOUNT_CODES
 TABLE_CUSTOMERS_TO_DISCOUNT_CODES
 
 ```
+
+In case you are using the fork **Discount Codes BS** 
+<http://addons.oscommerce.com/info/9460>:
+
+This module is not using constants to define tables, so please add following definitions to your system by creating a new file
+
+`/mailhive/common/local/dc.php` 
+
+with the content
+
+```php
+<?php
+define('TABLE_DISCOUNT_CODES', 'discount_codes');
+define('TABLE_CUSTOMERS_TO_DISCOUNT_CODES', 'customers_to_discount_codes');
+define('FILENAME_DISCOUNT_CODES', 'discount_codes.php');
+```
+This will define the missing constants.
 
