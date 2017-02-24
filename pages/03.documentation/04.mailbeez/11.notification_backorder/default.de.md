@@ -56,7 +56,7 @@ metadata:
 
 Dann sollten Sie sich das Modul "Benachrichtigung Bestell-Rückstand" genauer ansehen:
 
-Basierend auf dem "Verfügbar ab" Datum (Datenbank-Feld products\_date\_available) ermittelt das Modul, ob eine Bestellung ein Produkt enthält, welche gerade oder noch nicht auf Lager ist.
+Basierend auf dem "Verfügbar ab" Datum (Datenbank-Feld products_date_available) ermittelt das Modul, ob eine Bestellung ein Produkt enthält, welches gerade oder noch nicht auf Lager ist.
 
 Und weil es das Verfügbarkeits-Datum protokolliert, kann es Änderungen erkennen und dann gleich eine Benachrichtigung senden.
 

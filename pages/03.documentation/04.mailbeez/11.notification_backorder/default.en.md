@@ -50,7 +50,7 @@ metadata:
 
 Then you should have a closer look at this automatic Backorder Notification Module.
 
-Based on the Information "Date available" (field products\_date\_available) the module finds out if an order contains a product which is not or not yet in stock. And as it keeps track with the availability date it can detect changes and fire a notification right away.
+Based on the Information "Date available" (field products_date_available) the module finds out if an order contains a product which is not or not yet in stock. And as it keeps track with the availability date it can detect changes and fire a notification right away.
 
 The module sends out following 3 types of notification emails:
 
