@@ -1,5 +1,5 @@
 ---
-title: 'Email Web-View and Archive'
+title: 'Email Web-view and Archive'
 slug: config_email_archive
 routes:
     aliases:
@@ -35,18 +35,18 @@ module:
     pro: pro
     cert: 'true'
     price: '79 EUR'
-    title_en: 'Web-View and Email Archive'
+    title_en: 'Email Web-view and Archive'
     teaser_en: 'Enrich you MailBeez Emails with a web-view and archive them'
-    title_de: 'Email Archiv und Web-Ansicht'
+    title_de: 'Email Web-Ansicht und Archiv' 
     teaser_de: 'Erweitern Sie Ihre MailBeez-Emails mit einer Web-Ansicht und archivieren Sie diese.'
     author: MailBeez.com
 author:
     name: admin
 ---
 
-Enhance your MailBeez system with the "Email web-view and archive" module:
+Enhance your MailBeez system with the "Email Web-view and Archive" module:
 
-## Web-View
+## Web-view
 
 In the main- or body of your email template, use the variable:
 
@@ -55,13 +55,13 @@ In the main- or body of your email template, use the variable:
 ```
 
 
- When the recipients of the email clicks on this link, they will then be redirected to a web version of the email.
+ When the email recipient clicks this link, they will be redirected to a web version of the email.
 
 ## Archive
 
 All Mailbeez generated emails will be automatically archived in both TXT and HTML format. The archived versions can be displayed easily by either the Beez-O-Graph or when working directly with a customer using the free [BeezDesk CRM Customer Insight](/documentation/configbeez/config_customer_insight/) add-on. 
 
-Checking which emails a customer has received has now become a very simple task!
+Getting an overview or checking exactly which emails a customer has received has now become a very simple task!
 
 
 With the help of the integrated "clean-up function", older entries can be deleted in a rule-based manner. This can be performed manually in the module or, if configured accordingly, automatically.
