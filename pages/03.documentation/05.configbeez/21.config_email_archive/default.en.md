@@ -63,3 +63,14 @@ All Mailbeez generated emails will be automatically archived in both TXT and HTM
 
 Checking which emails a customer has received has now become a very simple task!
 
+
+With the help of the integrated "clean-up function", older entries can be deleted in a rule-based manner. This can be performed manually in the module or, if configured accordingly, automatically.
+
+## Configuring an external database
+
+In the default configuration, the e-mail archive is stored in the shop database.
+Depending on the email volume, the archive can achieve a size of several GBs despite the automated clean-up function, whereby e.g. backups of the database become more difficult.
+
+In order not to add load to the shop database, a separate database can be configured for the email archive. The steps are quite simple: first, create a new database in the server administration, then configure the access data for this database in the module. In case of connection problems, the module will help you with the appropriate hints.
+
+Since the email archive data are non-critical data, a backup can be omitted. However, the automatic clean-up function should be activated in order to avoid an uncontrolled increase in the database size.

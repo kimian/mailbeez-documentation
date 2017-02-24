@@ -68,3 +68,14 @@ in Ihrer Haupt- oder auch Inhalts-Vorlage. Der Empfänger wird dann mit Klick au
 ## Archiv
 
 Alle Emails werden automatisch in Text- und HTML-Version archiviert und sind komfortable über den Beez-O-Graph aber auch je Kunden im kostenfreien [BeezDesk Kunden Insight](/dokumentation/configbeez/config_customer_insight/) einsehbar - So ist leicht nachvollziehbar, welche Emails den Kunden gesendet worden sind.
+
+Mit Hilfe der integrierten "Aufräum-Funktion" können ältere Einträge regelbasiert gelöscht werden. Dies kann manuell im Modul oder - bei entsprechender Konfiguration - automatisiert erfolgen.
+
+## Konfiguration einer externen Datenbank
+
+In der Standard-Konfiguration wird das Email-Archiv in der Shop-Datenbank gespeichert. 
+Je nach Versende-Volumen kann das Archiv trotzt automatisierter Aufräum-Funktion eine Grösse von mehreren GBs erreichen, wodurch sich z.B. Backups der Datenbank erschweren.
+
+Um die Shop-Datenbank nicht zu belasten, kann eine eigene Datenbank für das Email-Archiv konfiguriert werden. Die Schritte hierzu sind recht einfach: Zunächst in der Server-Administration eine neue Datenbank anlegen, dann die Zugangsdaten dieser Datenbank im Modul konfigurieren - fertig. Bei Verbindungsproblemen hilft das Modul mit entsprechenden Hinweisen weiter.
+
+Da es sich bei den Email-Archiv-Daten um nicht kritische Daten handelt, kann auf ein Backup verzichtet werden. Es sollte aber dennoch die automatische Aufräum-Funktion aktiviert werden, um ein unkontrolliertes Anwachsen der Datenbankgrösse zu vermeiden.
