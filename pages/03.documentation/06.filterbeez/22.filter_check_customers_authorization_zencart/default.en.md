@@ -1,6 +1,6 @@
 ---
 # http://learn.getgrav.org/content/headers
-title: '[ZenCart] Check Customer Authorization'
+title: '[Zen Cart] Check Customer Authorization'
 slug: filter_check_customers_authorization_zencart
 date: 15-12-2016
 published: true
@@ -26,6 +26,6 @@ module:
 
 ---
 
-## Ensure not authorized Customers Don’t Get Email
+## Ensure Non-approved Customers Don’t Get Email
 
-Zencart allows to set the Customers' Authorization Status to a couple of different levels including "approved". Having this module activated ensures that only customers with authorization status "approved" will receive Emails through MailBeez.
+With Zen Cart, you have the option to set a customer's Authorization Status to a couple of different levels, including "approved". Having this module activated ensures that only customers with the authorization status "approved" will receive MailBeez generated emails.
