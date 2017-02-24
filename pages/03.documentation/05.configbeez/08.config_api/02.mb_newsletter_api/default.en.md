@@ -103,7 +103,7 @@ you find the prospects confirmation-code in table `mailbeez_newsletter_source_pr
 ####Example
 
 ```
-http://<myshop.com>/mailhive.php/api/private/v1.0/newsletter/confirm/customers/53efef14241107e0fbb7750c4d3023a5
+http://<myshop.com>/mailhive.php/api/public/v1.0/newsletter/confirm/customers/53efef14241107e0fbb7750c4d3023a5
 ```
 
 
