@@ -4,8 +4,6 @@ publish_date: '15-02-2017 00:00'
 date: '15-02-2017 00:00'
 slug: customer-segmentation
 template: tutorial
-visible: false
-published: false
 summary:
     enabled: true
     format: short

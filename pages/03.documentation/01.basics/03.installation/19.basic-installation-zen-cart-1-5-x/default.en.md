@@ -77,6 +77,20 @@ Log in to your zen-cart administration panel. From the navigation bar, select **
 
 ## Adaption of Zen Cart
 
+####changes to your .htaccess rewrite rules
+
+Please add following condition
+
+    # Don't rewrite MailBeez directory
+    RewriteCond %{REQUEST_URI} !^/mailhive [NC]
+       
+as a new line above
+
+    # Handle all other URIs using Zen Cart (its index.php)
+
+
+####Fix the email function
+
 The Zen Cart email function is peculiar when sending custom emails, and you may experience some minor issues when sending MailBeez generated emails through Zen Cart. See FAQ:
 
 >>>>> Please see [Zen Cart FAQ](/documentation/frequently-asked-questions#zen-cart) for more details
