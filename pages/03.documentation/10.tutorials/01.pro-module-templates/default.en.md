@@ -57,7 +57,7 @@ Each module template is composed from a number of blocks, which you can edit, mo
 
 ### Edit text
 
-You see a pencil symbol on the left? Just klick and the editor view for the current block will open
+You see a pencil symbol on the left? Just click and the editor view for the current block will open
 
 
 ### Move element

@@ -54,6 +54,11 @@ Using the matching integration pack MailBeez will integrate itself seamlessly in
 
 Please start with downloading the matching integration pack. Then unzip the pack and merge the files into the file/folder structure of your Modified-Shop.
 
+Following core files have been adopted:
+
+    /products_reviews_write.php             // Auto-login for product reviews
+    /inc/csrf_token.inc.php                 // Integration with CSFR protection
+    /inc/xtc_update_whos_online.inc.php     // exclude of mailhive.php calls
 
 In you Modified-Shop Administration > Partner Modules > MailBeez you will be able to activate the integration and finalize the intstallation of MailBeez.
 
