@@ -1,5 +1,5 @@
 ---
-title: 'Run MailBeez automatically - Advanced'
+title: 'Module Timing'
 published: true
 date: '02-12-2013 00:00'
 publish_date: '02-12-2013 00:00'

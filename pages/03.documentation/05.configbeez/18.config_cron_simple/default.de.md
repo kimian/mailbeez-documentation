@@ -54,7 +54,7 @@ metadata:
 
 **Ein einfaches, aber sehr praktisches Modul, um MailBeez automatisch auszuführen – ohne sich mit der Einrichtung eines Cronjobs befassen zu müssen**
 
-Mit diesem einfachen Modul können Sie sich die Mühe sparen, einen Cronjob einzurichten, um MailBeez zu automatisieren. Dieses Modul nutzt den Besucher-Traffik auf Ihrem Shop, um MailBeez so oft wie gewünscht auszuführen. Für MailBeez Benutzer, die schnell das System automatisieren wollen, oder welche sich nicht mit der Einrichtung eines Cronjobs beschäftigen wollen, ist dies sehr praktisch.
+Mit diesem einfachen Modul können Sie sich die Mühe sparen, einen Cronjob einzurichten, um MailBeez zu automatisieren. Dieses Modul nutzt den Besucher-Traffic auf Ihrem Shop, um MailBeez so oft wie gewünscht auszuführen. Für MailBeez Benutzer, die schnell das System automatisieren wollen, oder welche sich nicht mit der Einrichtung eines Cronjobs beschäftigen wollen, ist dies sehr praktisch.
 
 **Einfach und schnell**  
  Mit Hilfe von Zeitstempel-Caches wird die zusätzliche Last auf Ihrem Server sehr gering gehalten. Durch den Einsatz von moderner AJAX Technologie wird der Besucher in Ihrem Shop nichts von der Ausführung des Modules merken: Der MailBeez Versand wird erst angestossen, nach dem die Seite vollständig geladen worden ist.

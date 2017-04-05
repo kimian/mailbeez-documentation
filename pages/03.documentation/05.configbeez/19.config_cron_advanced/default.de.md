@@ -1,6 +1,6 @@
 ---
 # http://learn.getgrav.org/content/headers
-title: MailBeez automatisch ausführen - Profi
+title: Zeitsteuerung
 slug: config_cron_advanced
 # menu: MailBeez automatisch ausführen - Profi
 date: 02-12-2013
@@ -66,4 +66,4 @@ Das Modul "MailBeez automatisch ausführen Profi" enthält die Automatik-Funktio
 
 **Für beste Zuverlässigkeit bitte einen traditionellen Cronjob einrichten, welche die MailBeez Cronjob-URL z.B. alle 5 Minuten ausführt und dann in dem Modul einfach und flexible die Zeitsteuerung je Modul konfigurieren.**
  
-Somit sind die Ausführungs-Zeiten nicht vom Besucher-Traffik abhängig.
+Somit sind die Ausführungs-Zeiten nicht vom Besucher-Traffic abhängig.
