@@ -112,7 +112,7 @@ In der System-Status Übersicht wird Ihnen angezeigt, wie viele Fehler beim Emai
 Mit Klick auf das Werkzeug-Symbol können Sie zwischen folgenden Aktionen zur Problembehebung wählen: 
 
 ####Neu Starten
-Die betroffenen Einträge werden im System gelöscht, so dass diese Emails - je nach Zeitpunkt und Modul konfiguration - erneut versendet werden können.
+Die betroffenen Einträge werden im System gelöscht, so dass diese Emails - je nach Zeitpunkt und Modul-Konfiguration - erneut versendet werden können.
 
 ####Ignorieren
 Die betroffenen Einträge werden im System markiert, so dass diese Emails nicht erneut versendet werden.
