@@ -49,7 +49,7 @@ metadata:
 #  last_modified: true
 ---
 
-Mit dem "MailBeez automatisch ausführen - Profi" Modul halten Sie volle Kontrolle über den Versende-Zeitpunkt jedes Modules.
+Mit dem "Zeitsteuerung" Modul erhalten Sie volle Kontrolle über den Versende-Zeitpunkt jedes Modules.
 
 **Vorteile**
 
@@ -62,7 +62,7 @@ Abhängig von Ihrem Server, Anzahl der MailBeez Module und Konfiguration kann de
 
 **Einrichtung:**
 
-Das Modul "MailBeez automatisch ausführen Profi" enthält die Automatik-Funktion des "[MailBeez automatisch ausführen](/dokumentation/configbeez/config_cron_simple)" Modules, um den Traffic auf der Website zur Ausführung des Versende Prozesses zu nutzen. Dies passiert asynchron, d.h. die Ladezeiten werden nicht negativ beeinflusst.
+Das Modul "Zeitsteuerung" enthält die Automatik-Funktion des "[MailBeez automatisch ausführen](/dokumentation/configbeez/config_cron_simple)" Modules, um den Traffic auf der Website zur Ausführung des Versende Prozesses zu nutzen. Dies passiert asynchron, d.h. die Ladezeiten werden nicht negativ beeinflusst.
 
 **Für beste Zuverlässigkeit bitte einen traditionellen Cronjob einrichten, welche die MailBeez Cronjob-URL z.B. alle 5 Minuten ausführt und dann in dem Modul einfach und flexible die Zeitsteuerung je Modul konfigurieren.**
  

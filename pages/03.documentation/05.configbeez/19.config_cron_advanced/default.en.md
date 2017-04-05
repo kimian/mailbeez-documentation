@@ -54,6 +54,6 @@ Depending on the server setup, number of modules installed and configuration the
 
 **Set-up:**
 
-The "Run MailBeez automatically advanced" module includes the functionality of the basic "[Run MailBeez automatically](/documentation/configbeez/config_cron_simple)" module to utilise the traffic on the website to trigger the sending process. This happens asynchronous, which means the visitor will not see any delay in page load times.
+The "Module Timing" module includes the functionality of the basic "[Run MailBeez automatically](/documentation/configbeez/config_cron_simple)" module to utilise the traffic on the website to trigger the sending process. This happens asynchronous, which means the visitor will not see any delay in page load times.
 
 **For most reliable functoin please set up a traditional cronjob to call the MailBeez Cronjob-URL e.g. every 5 minutes and then configure very flexible and comfortable the timing for each module.**
