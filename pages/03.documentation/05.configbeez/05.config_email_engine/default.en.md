@@ -98,3 +98,23 @@ Settings for using Gmail Email-Servers:
  security: ssl  
  Port: 465
 ```
+
+
+
+
+### Error Sending Emails <a id="error"></a>
+
+In case the SMTP server throws an error when trying to send an email, this email will be marked with `message_id=-1`. 
+
+The system status overview will tell you, how many errors have occurred.
+
+With click on the tool symbol, you can choose between following actions to resolve the situation:
+
+
+####Restart
+The faulty entries will be deleted from your system. Depending on the timing and module configuration the system will try to send them again.
+
+####Ignore
+The faulty entries will be marked, and the system will not try to send them again.
+
+>>>>>>Please check the configuration of your SMTP server in case you get many errors. Some SMTP-Server might be configured to send only emails with a specific sender domain. So for another sender-domain the SMTP-Server will quite with an error.

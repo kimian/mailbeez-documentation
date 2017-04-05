@@ -103,3 +103,19 @@ Einstellungen für die Verwendung eines Gmail Email-Servers:
 
 
 
+### Fehler beim Email-Versand <a id="error"></a>
+
+Falls der Versand einer Email über SMTP aus verschiedensten Gründen im Email-Server fehl schlägt, wird diese Email im System mit der `message_id=-1` protokolliert. 
+
+In der System-Status Übersicht wird Ihnen angezeigt, wie viele Fehler beim Email-Versand aufgetreten sind. 
+
+Mit Klick auf das Werkzeug-Symbol können Sie zwischen folgenden Aktionen zur Problembehebung wählen: 
+
+####Neu Starten
+Die betroffenen Einträge werden im System gelöscht, so dass diese Emails - je nach Zeitpunkt und Modul konfiguration - erneut versendet werden können.
+
+####Ignorieren
+Die betroffenen Einträge werden im System markiert, so dass diese Emails nicht erneut versendet werden.
+
+
+>>>>>>Sollten häufig Fehler beim Versand auftreten, so prüfen Sie bitte die Konfiguration des verwendeten SMTP-Servers. Einige SMTP-Server können z.B. so konfiguriert sein, dass nur bestimmte Absender-Domains zugelassen werden. Bei abweichenden Absender-Domains verweigert der SMTP-Server dann den Versand mit einer Fehlersituation. 
