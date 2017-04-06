@@ -1,12 +1,12 @@
 ---
 # http://learn.getgrav.org/content/headers
-title: Visueller Editor
+title: Editor und Bildgenerator
 slug: config_editor
 routes:
     default: /dokumentation/configbeez/config_editor
     
 # menu: Visueller Editor
-date: 24-03-2014
+date: 06-04-2017
 published: true
 publish_date: 24-03-2014
 # unpublish_date: 24-03-2014
@@ -57,7 +57,11 @@ Pfad-Angabe relativ zum Shop-Hauptverzeichnis
  Bei leerem Pfad: Alle Unterverzeichnis im Shop sind zugänglich
 
 
+**Ausgangsverzeichnis für Bild-Cache**
 
+Hier kann ein zum Shop-Hauptverzeichnis relative Pfad angegeben werden. Der MailBeez Bildgenerator schreibt Bild-Dateien in dieses Verzeichnis. Dieser Cache kann vollständig regeniert werden.
+ 
+Bei Änderung des Cache-Pfades wird der Cache automatisch umgeschrieben, allerdings sollte der alte Pfad mit der darin enthaltenen .htaccess Datei erhalten bleiben, um das Generieren von Bildern in früher versendeten Emails zu ermöglichen.
 
 
 **Mobil-Editor Breitenangaben**

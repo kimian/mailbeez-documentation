@@ -1,9 +1,9 @@
 ---
-title: 'Visual Editor'
+title: 'Editor and Image Engine'
 slug: config_editor
 routes:
     default: /documentation/configbeez/config_editor
-date: 24-03-2014
+date: 06-04-2017
 published: true
 publish_date: 24-03-2014
 template: docs
@@ -39,6 +39,12 @@ Here you can enter a path relative to your store root directory. The image brows
 Path relativ to store root  
  empty value: browse all images on shop server
 
+
+**Root for image cache**
+
+Here you can enter a path relative to your store root directory. The MailBeez Image Engine writes Image files into this directory. The cache can be fully regenerated.
+
+With changing the cache path, the cache will be automatically moved, but you should keep the old cache path containing a .htaccess file to support image generation for in earlier sent emails referenced images.
 
 
 **Mobile Editor width settings**
