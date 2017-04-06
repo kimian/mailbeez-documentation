@@ -51,7 +51,7 @@ Es bietet folgende Konfigurations-Möglichkeiten:
 
 **Ausgangsverzeichnis für Bilderverwaltung**
 
-Hier kann ein zum Shop-Hauptverzeichnis relative Pfad angegeben werden. Der Bild-Browser wird dann ausgehenden von diesem Verzeichnis geöffnet.
+Hier kann ein zum Shop-Hauptverzeichnis relativer Pfad angegeben werden. Der Bild-Browser wird dann ausgehenden von diesem Verzeichnis geöffnet.
 
 Pfad-Angabe relativ zum Shop-Hauptverzeichnis  
  Bei leerem Pfad: Alle Unterverzeichnis im Shop sind zugänglich
@@ -59,7 +59,7 @@ Pfad-Angabe relativ zum Shop-Hauptverzeichnis
 
 **Ausgangsverzeichnis für Bild-Cache**
 
-Hier kann ein zum Shop-Hauptverzeichnis relative Pfad angegeben werden. Der MailBeez Bildgenerator schreibt Bild-Dateien in dieses Verzeichnis. Dieser Cache kann vollständig regeniert werden.
+Hier kann ein zum Shop-Hauptverzeichnis relativer Pfad angegeben werden. Der MailBeez Bildgenerator schreibt Bild-Dateien in dieses Verzeichnis. Dieser Cache kann vollständig regeniert werden.
  
 Bei Änderung des Cache-Pfades wird der Cache automatisch umgeschrieben, allerdings sollte der alte Pfad mit der darin enthaltenen .htaccess Datei erhalten bleiben, um das Generieren von Bildern in früher versendeten Emails zu ermöglichen.
 
