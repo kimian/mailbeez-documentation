@@ -46,6 +46,18 @@ metadata:
 
 See the Trustpilot Unique Link Edition here: [Trustpilot Advanced Unique Link Edition](/documentation/mailbeez/trustpilot_advanced_ul/)
 
+
+
+## Invite for Service- & Productreviews
+
+Trustpilot’s Service Reviews strengthen relationships between companies and customers. Trustpilot’s Product Reviews complement Service Reviews, helping customers make informed purchase decisions.
+
+Does your Trustpilot Subscription support product reviews? Great, this module allows you to automatically invite your customers to review their purchased products as well.
+
+And thanks to the seamless integration of MailBeez with your Store System, you can invite your existing customer base for reviews - within a configurable timeframe without any additional efforts.
+
+
+
 ## Advanced Features
 
 By integrating with the Trustpilot Feedback Service, this advanced module gives you a couple of settings to streamline and improve the process of inviting your customers to provide a rating on Trustpilot.

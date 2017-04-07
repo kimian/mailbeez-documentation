@@ -53,6 +53,16 @@ metadata:
 
 Trustpilot Unique Link Version: [Trustpilot Profi Unique Link Version](/dokumentation/mailbeez/trustpilot_advanced_ul/)
 
+
+
+## Einladung zu Service- & Produktbewertungen
+
+Neben den bekannten Trustpilot Service-Bewertungen bietet Trustpilot auch die Möglichkeit, Produktbewertungen zu sammeln.
+
+Unterstützt Ihr Trustpilot-Tarif Produktbewertungen? Prima, dann können Sie Ihre Kunden mit diesem Modul automatisiert auch zur Bewertung der gekauften Produkte einladen.
+
+Und Dank der tiefen Integration von MailBeez mit dem Shopsystem können Sie ohne zusätzlichen Aufwand Ihren Kundenbestand auch nachträglich in einem von Ihnen konfiguierten Zeitrahmen zur Bewertung bitten.
+
 ## Profi-Funktionen
 
 Im Vergleich zum kostenfreien Trustpilot Modul, welches bereits die Integration mit dem Trustpilot Feedback Service zum Einladen von Kunden zur Abgabe von Bewertungen bietet, erlaubt die Profi-Version die Optimierung des Ablaufes zur Bewertungs-Aufforderung:
@@ -72,6 +82,8 @@ Das Modul wird dann eine Verzögerung für Bestellungen mit Lieferung an die Lä
 Wollen Sie Ihre häufig bestellenden Stammkunden vor eine Bewertungseinladung nach jeder Bestellung beschützen? Definieren Sie einfach, wie viele Tage seit der letzten Einladungs-Email vergangen sein müssen, bevor eine erneute Einladung versendet werden soll.
 
 Das Modul wird dann automatisch prüfen, ob bereits eine neuen Einladung versendet werden kann oder nicht.
+
+
 
 ### Wollen Sie Ihre wertvollen Bewertungen mit Shop und Email-Marketing integrieren?
 
