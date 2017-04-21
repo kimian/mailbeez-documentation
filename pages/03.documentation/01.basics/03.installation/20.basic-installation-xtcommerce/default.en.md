@@ -17,7 +17,7 @@ summary:
 taxonomy:
     migration_status: done
     category: [docs]
-    tag: []
+    tag: [ftp]
 # added collection selector
 
 author:

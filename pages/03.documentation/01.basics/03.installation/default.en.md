@@ -43,4 +43,8 @@ metadata:
 
 please choose your platform:
 
+
+Store Systems marked with <b class='label label-integrated'></b> are having **MailBeez pre-integrated**, you just need to click to install the System.
+
+
 If your system is not in the list, but based on osCommerce you will most probably be successful with following the Basic Installation for osCommerce.

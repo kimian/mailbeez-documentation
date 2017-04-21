@@ -40,4 +40,6 @@ metadata:
 
 Bitte wählen Sie Ihr Shop-System aus der folgenden Liste.
 
+Die mit <b class='label label-integrated'></b> markierten Shop-Systeme haben **MailBeez bereits vorintegriert**, hier ist die Grundinstallation mit wenigen Klicks erledigt.
+
 Falls Ihr Shop-System nicht aufgeführt ist, aber auf osCommerce basiert, werden Sie die besten Chancen mit der Grund Installation für osCommerce haben.

@@ -17,7 +17,7 @@ summary:
 taxonomy:
     migration_status: done
     category: [docs]
-    tag: []
+    tag: [integrated]
 # added collection selector
 
 author:
