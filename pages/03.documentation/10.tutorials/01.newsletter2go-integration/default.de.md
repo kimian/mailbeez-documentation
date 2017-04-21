@@ -19,7 +19,7 @@ taxonomy:
 [TOC]
 
 ## Funktionsumfang
-MailBeez enhält eine leistungsfähige Integration mit Newsletter2Go, welche dem Shopbetreiber alle Freiheiten für ein professionelles Email Marketing eröffnen.
+MailBeez enthält eine leistungsfähige Integration mit Newsletter2Go, welche dem Shopbetreiber alle Freiheiten für ein professionelles Email Marketing eröffnen.
 
 
 
@@ -27,7 +27,7 @@ MailBeez enhält eine leistungsfähige Integration mit Newsletter2Go, welche dem
 Emails werden in MailBeez erstellt, generiert und dann zum Versand an Newsletter2Go übergeben:
 
 - **Email Versand**  
-  alle von MailBeez generierten Emails werden über eine Schnittstelle zum sofortigen Versand an Newsletter2Go übergeben werden. Hierdurch werden bestmögliche Zustellraten erzielt.
+  alle von MailBeez generierten Emails werden über eine Schnittstelle zum sofortigen Versand an Newsletter2Go übergeben. Hierdurch werden bestmögliche Zustellraten erzielt.
 - **Bounce-Handling**  
   Rückläufer aufgrund ungültiger Email-Adressen werden vom Newsletter2Go-System verarbeitet und über ein Schnittstelle an MailBeez zurückgemeldet, so dass diese Email-Adressen in Zukunft ausgeschlossen werden.
   
@@ -50,7 +50,7 @@ Alle Email-Adressen aus dem Shop können nach Newsletter2Go importiert werden. D
 1. **Automatik-Emails und Newsletter in MailBeez erstellen und über Newsletter2Go versenden**  
   Hierbei übergibt MailBeez die generierten Emails an Newsletter2Go zum Versand mit bestmöglichen Zustellraten. Ungültige Email-Adressen werden in MailBeez markiert.
 1. **Kombination aus 1. & 2.**  
-   z.B. Traditionelle Newsletter werden in Newsletter2Go erstellt und versendet, während MailBeez Emails zur Bitte um Produktbewertung generiert.
+   Traditionelle Newsletter werden in Newsletter2Go erstellt und versendet, während MailBeez z.B. Emails zur Bitte um Produktbewertung generiert.
 
 ##Einrichtung der Integration
 
@@ -81,7 +81,13 @@ Dank der Vorintegration von MailBeez in Gambio 2.3+ kann das kostenlose Grundsys
 Hierzu bitte in der Gambio Administration auf den Menüpunkt `MailBeez` klicken, um das Grundsystem zu installieren
 
 [/ui-accordion-item]
-[ui-accordion-item title="Gambio < 2.3"]
+[ui-accordion-item title="<b class='label label-integrated'></b> Gambiocloud.de"]
+Dank der Vorintegration von MailBeez in [Gambiocloud.de](https://gambiocloud.de) kann das kostenlose Grundsystem mit wenigen Klicks installiert werden. 
+
+Hierzu bitte in der Gambio Administration auf den Menüpunkt `MailBeez` klicken, um das Grundsystem zu installieren
+
+[/ui-accordion-item]
+[ui-accordion-item title="Gambio 2.x"]
 Bitte der Anleitung zur [Installation von MailBeez auf Gambio 2.x](/dokumentation/installation/basic-installation-gambio-gx-2) folgen.
 
 [/ui-accordion-item]
@@ -102,7 +108,7 @@ Dank der Vorintegration von MailBeez in Zen-Cart-pro.at kann das kostenlose Grun
 
 [/ui-accordion-item]
 [ui-accordion-item title="ZenCart"]
-Bitte der Anleitung zur [Installation von MailBeez auf ZenCart](/dokumentation/installation/basic-installation-modified-shop) folgen.
+Bitte der Anleitung zur [Installation von MailBeez auf ZenCart](/dokumentation/installation/basic-installation-zen-cart-1-5-x) folgen.
 
 [/ui-accordion-item]
 [ui-accordion-item title="osCommerce 2.3.x"]
