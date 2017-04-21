@@ -3,6 +3,7 @@ title: How to Use Customer Segmentation
 publish_date: '15-02-2017 00:00'
 date: '15-02-2017 00:00'
 slug: customer-segmentation
+published: false
 template: tutorial
 summary:
     enabled: true
