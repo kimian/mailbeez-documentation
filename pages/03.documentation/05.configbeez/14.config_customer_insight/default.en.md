@@ -31,7 +31,7 @@ Developers can easily enhance the Customer Insight view e.g. with modules to pul
 
 The Customer Insight view gives you an immediate overview of all orders, products purchased, etc and can be upgraded towards a fully featured professional multichannel ticket system supporting email, live chat, Facebook, twitter, phone calls including web forms, knowledge base, forums and suggestion boards for a real multichannel customer support solution. This allows store owners to consolidate their communication channels and streamline their customer support.
 
-[read more about BeezDesk CRM](http://www.beezdesk.com)
+[read more about BeezDesk CRM](https://www.beezdesk.com)
 
 >>>>>[plugin:content-inject](/content_blocks/hint_preintegration)
 

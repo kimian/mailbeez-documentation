@@ -33,7 +33,7 @@ module:
 ---
 
 Integration of your Shopsystem with BeezDesk CRM Ticket system
-[learn more about BeezDesk CRM](http://www.beezdesk.com)
+[learn more about BeezDesk CRM](https://www.beezdesk.com)
 
 
 

@@ -33,7 +33,7 @@ module:
 ----------------
 
 Auf dieser Seite wird die Integration des Shop-Systems mit BeezDesk CRM beschrieben
-[mehr zum BeezDesk CRM](http://www.beezdesk.de)
+[mehr zum BeezDesk CRM](https://www.beezdesk.de)
 
 
 

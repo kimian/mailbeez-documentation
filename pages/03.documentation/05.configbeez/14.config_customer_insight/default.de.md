@@ -44,7 +44,7 @@ Entwickler können leicht die Kunden-Insight Ansicht mit Modulen erweitern, welc
 
 Die Kunden-Insight Ansicht gibt Ihnen einen sofortigen Überblick aller Bestellungen, gekaufter Produkte usw. zu einem Kunden und kann zu einem voll ausgestatteten, professionellen Multichannel Kunden Support System für Email, LiveChat, Facebook, Twitter, Telefone sowie Formulare, Knowledgebase, Foren und Vorschlag-Tafeln erweitert werden. Dies erlaubt Shop-Betreibern, alle modernen Kommunikations-Kanäle zu konsolidieren sowie die Kunden-Service Prozesse zu optimieren.
 
-[mehr zum BeezDesk CRM](http://www.beezdesk.de)
+[mehr zum BeezDesk CRM](https://www.beezdesk.de)
 
 >>>>>[plugin:content-inject](/content_blocks/hint_preintegration)
 
