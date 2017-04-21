@@ -73,14 +73,17 @@ Newsletter2Go schreibt:
 |------------------------------------------------------------|----------------------------------------------
 | Versand über zertifizierte Server mit 99,5% Zustellrate    | SPF Konfiguration sinnvoll
 | Whitelisting für 2,4 Milliarden Emails                     | zusätzliche Kosten, welche aber **durch verbesserte Zustell-Raten gedeckt werden** sollten     
+| Keine Drosselung erforderlich                              |  |
 | Kein Problem mit Spam-Listen, Blacklist etc.               |  |
 | 1000 Email gratis pro Monat                                |  |
 
 
+[Tutorial zur Einrichtung](/dokumentation/tutorials/newsletter2go-integration-mailbeez)
+
 >>>>>> Im MailBeez System können Sie sich direkt bei Newsletter2Go registrieren. Dabei wird die Integration automatisch konfiguriert und nach Freischaltung Ihres Kontos können Sie sofort MailBeez über die Server von Newsletter2Go versenden lassen.
 
 
-### SMTP (PHPMailer)
+### SMTP
 
 Mit dieser Option können Sie MailBeez für den Versand über einen beliebigen SMTP Server konfigurieren.
 

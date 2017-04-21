@@ -70,16 +70,17 @@ Newsletter2Go says:
 
  
 | Advantage                                                   | Disadvantage 
-|------------------------------------------------------------|----------------------------------------------
-| bypass spam filters thanks to server certificates          | SPF configuration recommended
-| Whitelisting of 2,4 Billion Email addresses                | additional costs, **should be covered by increased delivery rates**    
+|-------------------------------------------------------------|----------------------------------------------
+| bypass spam filters thanks to server certificates           | SPF configuration recommended
+| Whitelisting of 2,4 Billion Email addresses                 | additional costs, **should be covered by increased delivery rates**    
+| No throttling required                                      |  |
 | You don't have to worry about blacklists, spam ratings etc. |  |
-| 1000 free emails each month                               |  |
+| 1000 free emails each month                                 |  |
 
 
 >>>>>> Within the MailBeez System you can directly register at Newsletter2Go. This will automatically set up the integration for you. After approval of your account you are ready to let MailBeez send its emails through the certified servers of Newsletter2Go.
 
-### SMTP (PHPMailer 5.2.1)
+### SMTP
 
 This option allows you to configure any SMTP server.
 
