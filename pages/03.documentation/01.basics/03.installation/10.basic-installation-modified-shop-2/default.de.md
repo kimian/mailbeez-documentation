@@ -63,7 +63,7 @@ Folgende Dateien von Modified-Shop wurden geringfügig angepasst:
     /inc/xtc_update_whos_online.inc.php     // Ausschluss von mailhive.php Aufrufen
 
 
-Dann in der Modified-Shop Administration > Partner Module > MailBeez die Integration aktivieren und die Installation vom MailBeez System durchführen.
+Dann in der Modified-Shop `Administration > Partner Module > MailBeez` die Integration aktivieren und die Installation vom MailBeez System durchführen.
 
 
 [plugin:content-inject](/content_blocks/run_installer)

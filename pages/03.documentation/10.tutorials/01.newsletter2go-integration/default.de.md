@@ -19,7 +19,7 @@ taxonomy:
 [TOC]
 
 ## Funktionsumfang
-MailBeez enthält eine leistungsfähige Integration mit Newsletter2Go, welche dem Shopbetreiber alle Freiheiten für ein professionelles Email Marketing eröffnen.
+MailBeez enthält eine leistungsfähige Integration mit Newsletter2Go, welche dem Shopbetreiber alle Freiheiten für ein professionelles Email Marketing eröffnet.
 
 
 
@@ -65,14 +65,14 @@ Die mit <b class='label label-integrated'></b> markierten Shop-Systeme haben **M
 [ui-accordion-item title="<b class='label label-integrated'></b> Gambio 3.x"]
 Dank der Vorintegration von MailBeez in Gambio 3.x kann das kostenlose Grundsystem mit wenigen Klicks installiert werden. 
 
-Hierzu bitte unter `Module > Module-Center` die Integration `MailBeez` aktivieren und dann über den neuen Menüpunkt `MailBeez` das Grundsystem installieren.
+Hierzu bitte unter `Module > Modul-Center` die Integration `MailBeez` aktivieren und dann über den neuen Menüpunkt `MailBeez` das Grundsystem installieren.
 
 [/ui-accordion-item]
 [ui-accordion-item title="<b class='label label-integrated'></b> Gambio 2.5+"]
 
 Dank der Vorintegration von MailBeez in Gambio 2.5+ kann das kostenlose Grundsystem mit wenigen Klicks installiert werden. 
 
-Hierzu bitte unter `Module > Module-Center` die Integration `MailBeez` aktivieren und dann über den neuen Menüpunkt `MailBeez` das Grundsystem installieren.
+Hierzu bitte unter `Module > Modul-Center` die Integration `MailBeez` aktivieren und dann über den neuen Menüpunkt `MailBeez` das Grundsystem installieren.
 
 [/ui-accordion-item]
 [ui-accordion-item title="<b class='label label-integrated'></b> Gambio 2.3+"]
@@ -84,7 +84,7 @@ Hierzu bitte in der Gambio Administration auf den Menüpunkt `MailBeez` klicken,
 [ui-accordion-item title="<b class='label label-integrated'></b> Gambiocloud.de"]
 Dank der Vorintegration von MailBeez in [Gambiocloud.de](https://gambiocloud.de) kann das kostenlose Grundsystem mit wenigen Klicks installiert werden. 
 
-Hierzu bitte in der Gambio Administration auf den Menüpunkt `MailBeez` klicken, um das Grundsystem zu installieren
+Hierzu bitte unter `Module > Modul-Center` die Integration `MailBeez` aktivieren und dann über den neuen Menüpunkt `MailBeez` das Grundsystem installieren.
 
 [/ui-accordion-item]
 [ui-accordion-item title="Gambio 2.x"]

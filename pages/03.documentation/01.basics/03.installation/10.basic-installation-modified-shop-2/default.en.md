@@ -61,7 +61,7 @@ Following core files have been adopted:
     /inc/csrf_token.inc.php                 // Integration with CSFR protection
     /inc/xtc_update_whos_online.inc.php     // exclude of mailhive.php calls
 
-In you Modified-Shop Administration > Partner Modules > MailBeez you will be able to activate the integration and finalize the intstallation of MailBeez.
+In you Modified-Shop `Administration > Partner Modules > MailBeez` you will be able to activate the integration and finalize the intstallation of MailBeez.
 
 
 [plugin:content-inject](/content_blocks/run_installer)
