@@ -36,7 +36,7 @@ metadata:
 #  last_modified: true
 ---
 
-MailBeez workswith *DigiStore 4.1*, running on PHP 5.2+
+MailBeez workswith *DigiStore 4.1*, running on php 5.3+
 
 If MailBeez is not included in your DigiStore 4.1+ release please follow these instructions
 

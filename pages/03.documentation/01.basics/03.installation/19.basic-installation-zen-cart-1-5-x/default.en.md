@@ -36,7 +36,7 @@ metadata:
 #  last_modified: true
 ---
 
-MailBeez works with **Zen Cart v1.5.x** running on PHP 5.2+
+MailBeez works with **Zen Cart v1.5.x** running on PHP 5.3+
 
 
 The installation is straight forward and can be done in a couple of minutes by following these steps:

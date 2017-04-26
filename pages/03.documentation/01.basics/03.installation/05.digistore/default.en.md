@@ -36,7 +36,7 @@ metadata:
 #  last_modified: true
 ---
 
-MailBeez works with *DigiStore 4.0*, running on PHP 5.2+
+MailBeez works with *DigiStore 4.0*, running on php 5.3+
 
 The installation is straight forward and can be done in a couple of minutes by following these two steps:
 

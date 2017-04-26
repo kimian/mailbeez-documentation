@@ -36,7 +36,7 @@ metadata:
 #  last_modified: true
 ---
 
-MailBeez arbeitet problemlos mit **xtc-modified / modified-shop 1.05** auf PHP 5.2+.
+MailBeez arbeitet problemlos mit **xtc-modified / modified-shop 1.05** auf php 5.3+.
 
 Die Installation ist in wenigen Schritten erledigt und sollte nicht mehr als ein paar Minuten dauern (es sei denn, der FTP Transfer ist sehr langsam…)
 

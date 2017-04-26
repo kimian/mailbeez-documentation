@@ -17,7 +17,7 @@ MailBeez supports a range of online shopping-cart systems based on osCommerce an
 
 ### PHP Requirements
 
-Very likely you already have an online shopping-cart system running on a Server with PHP5.2+ - that’s enough for MailBeez to work!
+Very likely you already have an online shopping-cart system running on a Server with PHP5.3+ - that’s enough for MailBeez to work!
 
 
 

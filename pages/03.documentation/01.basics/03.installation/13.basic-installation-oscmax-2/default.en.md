@@ -36,7 +36,7 @@ metadata:
 #  last_modified: true
 ---
 
-The Installation of MailBeez is successfully tested with osCMax v2.5RC1, running on PHP 5.2.11
+The Installation of MailBeez is successfully tested with osCMax v2.5RC1, running on php 5.3+
 
 The installation is straight forward and can be done in a couple of minutes by following these three steps:
 

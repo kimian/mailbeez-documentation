@@ -56,6 +56,7 @@ Please start with downloading the matching integration pack. Then unzip the pack
 
 Following core files have been adopted:
 
+    /admin/includes/column_left.php         // Menue-Item
     /products_reviews_write.php             // Auto-login for product reviews
     /inc/csrf_token.inc.php                 // Integration with CSFR protection
     /inc/xtc_update_whos_online.inc.php     // exclude of mailhive.php calls

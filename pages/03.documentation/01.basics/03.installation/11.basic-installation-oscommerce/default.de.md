@@ -36,7 +36,7 @@ metadata:
 #  last_modified: true
 ---
 
-MailBeez arbeitet problemlos mit osCommerce ms2.2 / rca2, auf PHP 5.2+
+MailBeez arbeitet problemlos mit osCommerce ms2.2 / rca2, auf php 5.3+
 
 Die Installation ist in wenigen Schritten erledigt:
 - Die neuen Dateien übertragen

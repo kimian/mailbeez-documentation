@@ -38,7 +38,7 @@ metadata:
 
 
 
-The Installation of MailBeez is successfully tested with *xt:Commerce Version* 3.04, running on PHP 5.2.11
+The Installation of MailBeez is successfully tested with *xt:Commerce Version* 3.04, running on php 5.3+
 
 The installation is straight forward and can be done in a couple of minutes by following these steps:
 

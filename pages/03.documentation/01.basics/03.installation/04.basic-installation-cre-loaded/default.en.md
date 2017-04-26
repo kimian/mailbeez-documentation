@@ -36,7 +36,7 @@ metadata:
 #  last_modified: true
 ---
 
-MailBeez works with CRE_Loaded_PCI_CE_v6.4.1a, running on PHP 5.2.11
+MailBeez works with CRE_Loaded_PCI_CE_v6.4.1a, running on php 5.3+
 
 The installation is straight forward and can be done in a couple of minutes by following this single step:
 
