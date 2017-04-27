@@ -70,39 +70,30 @@ We have created a step-by-step tutorial for you to make it easier.
 
 1. Navigate to: <https://code.google.com/apis/console/> and sign in to your Google account
 
-2. If this is your first time here, a “Create Project” button will appear. Click it:
-![](Screen_create_project_button.png "Create Project Button")
+2. If this is your first time here, a “Create Project” button will appear. Click it. 
+If you have already created projects then you can select from them.
+![](screen_ga_selectproject.png "Create Project Button")
 
-4. Otherwise, you will see that the Google API Services Console is displayed. Select “Services” from the menu at left and check Analytics API from the API list:
-![](Screen_api_services_console.png "API Services Console - Services List")  
- **Note:** You may get a Terms of Use popup if this is your first time here. If so, accept the terms and continue to the next step.
+4. Once you will select project, you will redirect to Project Dashboard. From there you can click on Enable API:
+Click on Analytics API and Enable it.
+![](screen_ga_enableAPI.png "Enable API")  
+![](screen_ga_selectanalyticapi.png "Select Google Analytic API")  
+ 
+7. Select “Credentials” from the menu at left to generate Credentials, Click on Create Credentials and select "OAuth Client ID":
+![](screen_ga_credentials.png "Create Credentials")
 
-7. Select “API Access” from the menu at left to display the Google API Access Console:
-![](Screen_api_access_console1.png "API Access Console - Create Client ID")
-
-9. Click on the “Create an OAuth 2.0 client ID” button to bring up the “Create Client ID” popup window:
-![](Screen_create_client_id_popup1.png "Create Client ID - Step 1")
-
-11. In the “Product name” field, enter “MailBeez Application” (without the quotes)
-
-12. Check the “Google Account” field. It should be pre-populated with your gmail address
-
-13. Click the “Next” button to display the next screen:
-![](Screen_create_client_id_popup2.png "Create Client ID - Step 2")
-
-15. Select “Web application” (since PHP is mostly used for web applications). Use localhost or a domain if you would like to try it out
-
-16. Click on “More Options”
-![](Screen_create_client_id_popup3.png "Create Client ID - Step 3")
+9. You will be ask to fill up Application Type, Name, Origin URL and Redirect URL:
+Application Type - Select "Web Application"
+Name - MailBeez Application
+Authorized Javascript Origin - remove “https://www.example.com” and replace it with the URL shown in your Google Analytics Dashboard Widget
+Authorized Redirect URL - remove “https://www.example.com/oauth2callback” and replace it with the URL shown in your Google Analytics Dashboard Widget
+Then Click on "Create" button
+![](screen_ga_createclientid.png "Fill up Information")
 
 
-18. Change the value for Authorized Redirect URIs – remove “https://www.example.com/oauth2callback” and replace it with the URL shown in your Google Analytics Dashboard Widget
-
-19. Click on “Create client ID”
-
-20. The API Setup is now complete and the information you need to configure your dashboard widget is visible:
-![](Screen_api_access_console2.png "API Access Console - Setup Complete")
-
+10. You will get popup with client ID and client secret. 
+The API Setup is now complete and the information you need to configure your dashboard widget is visible:
+![](screen_ga_credentails.png "Copy Credentials")
 
 22. To complete the next step, you will need the Client ID and the Client Secret from this screen
 
