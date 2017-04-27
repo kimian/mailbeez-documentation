@@ -70,53 +70,42 @@ Um die Konfiguration zu erleichtern, folgen Sie bitte den folgenden Schritten:
 
 1. Bitte gehen Sie zu : <https://code.google.com/apis/console/> und melden Sie sich ggf. an
 
-2. Wenn Sie diese Seite zum ersten Mail nutzen, werden Sie ein “Create Project” Button finden. Diesen Anklicken:
-![](Screen_create_project_button.png "Create Project Button")
+2. Legen Sie jetzt mit Klick auf den + Button ein neues Project an:
+![](screen_ga_selectproject.de.png "Neues Projekt")
 
-4. Andernfalls werden Sie die Google API Services Console sehen. Wählen Sie “Services” aus dem linken Menü und aktivieren Sie die Analytics API aus der API Liste:
-![](Screen_api_services_console.png "API Services Console - Services List")  
- **Hinweis:** Ggf. müssen Sie den Nutzungsbestimmungen zustimmen, bitte tun Sie dies.
+4. Mit Klick auf das neu angelegte Projekt gelangen Sie zum Projekt Dashboard. Dort bitte die API aktivieren und die Analytics API hinzufügen: 
+![](screen_ga_enableAPI.de.png "Enable API")  
+![](screen_ga_selectanalyticapi.de.png "Select Google Analytic API")  
 
-7. Wählen Sie “API Access” aus dem linken Menü um zur Google API Access Console zu gelangen:
-![](Screen_api_access_console1.png "API Access Console - Create Client ID")
+7. Wählen Sie "Zugangsdaten" im linken Menü und erstellen Sie dann Anmeldedaten vom Typ "OAuth-Client-ID)" 
+![](screen_ga_credentials.de.png "Create Credentials")
 
-9. Klicken Sie auf “Create an OAuth 2.0 client ID” Button um den “Create Client ID” Dialog zu öffnen:
-![](Screen_create_client_id_popup1.png "Create Client ID - Step 1")
+9. Sie werden jetzt aufgefordert, folgende Daten zu konfigurieren  
+ **Anwendungstyp** - Webanwendung  
+ **Name** - MailBeez  
+ **Autorisierte Javascript Quellen** - bitte die URL aus dem Widget kopieren und einfügen  
+ **Autorisierte Weiterleitungs-URLs** - bitte die URL aus dem Widget kopieren und einfügen  
+ Klicken Sie dann auf den "Erstellen" button
+![](screen_ga_createclientid.de.png "Fill up Information")
 
-11. Im Feld “Product name” geben Sie bitte “MailBeez Application” (ohne Anführungszeichen) ein
 
-12. Prüfen Sie das “Google Account” Feld. Hier sollten Sie Ihre Gmail Adresse finden.
+ 10. Es öffnet sich ein Fenster mit `Client-ID` und `Clientschlüssel`. Die Einrichtung der API ist damit abgeschlossen und Sie sehen die im weiteren Schritt benötigten Daten
+![](screen_ga_credentials_copy.de.png "Copy Credentials")
 
-13. Weiter mit dem “Next” Button:
-![](Screen_create_client_id_popup2.png "Create Client ID - Step 2")
+22. Die Daten `Client-ID` und `Clientschlüssel` bitte kopieren bzw. das Fenster offen behalten.
 
-15. Wählen sie “Web application”. Geben Sie Ihre Shop-Domain ein.
-
-16. Klicken Sie auf “More Options”
-![](Screen_create_client_id_popup3.png "Create Client ID - Step 3")
-
-18. Ändern Sie die Angabe für Authorized Redirect URIs – ersetzen sie “https://www.example.com/oauth2callback” mit der Angabe aus dem MailBeez Google Analytics Dashboard Widget
-
-19. Klicken Sie auf “Create client ID”
-
-20. Die API Einrichtung ist somit abgeschlossen und die Daten können in das MailBeez Google Analytics Dashboard Widget übernommen werden:
-![](Screen_api_access_console2.png "API Access Console - Setup Complete")
-
-22. Um diesen Schritt abzuschliessen, benötigen Sie die Client ID und das Client Secret von diesem Dialog:
 
 ### Schritt 2: Konfiguration des Dashboard Widgets
 
 1. Navigieren Sie zum Google Analytics Dashboard Widget auf Ihrem MailBeez Dashboard:
 ![](Screen_ga_dash_config1.png "Google Analytics Dashboard Widget")
 
-3. Geben Sie die Client ID und das Client Secret aus der Google API Console ein & und klicken Sie den “bestätigen” Button
+3. Geben Sie `Client-ID` und `Clientschlüssel`t aus der Google API Console ein & und klicken Sie den “bestätigen” Button
 
 4. Click the “Connect” button to connect your widget to your Google account:
 ![](Screen_ga_dash_config2.png "Connect to Google")
 
-6. Wenn Sie nicht in bei Google angemeldet sind, werden Sie den Google Login Screen sehen. Melden Sie sich an, um zum Google Authentication Dialog zu gelangen.
-
-7. Wenn Sie bei Google angemeldet sind, werden Sie direkt zum Google Authentication gelangen:
+6. Wenn Sie nicht in bei Google angemeldet sind, werden Sie den Google Login Screen sehen. Melden Sie sich an, um zum Google Authentication Dialog zu gelangen. Wenn Sie bei Google angemeldet sind, werden Sie direkt zum Google Authentication gelangen:
 ![](Screen_ga_authentication.png "Google Analytics Authentication Screen")
 
 9. Klicken Sie auf “Zugriff erlauben” und Sie kommen zurück zum MailBeez Dashboard, wo Sie jetzt eine Liste der Google Profile sehen. Bitte wählen Sie das passende:

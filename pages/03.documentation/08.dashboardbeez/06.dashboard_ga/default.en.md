@@ -72,28 +72,28 @@ We have created a step-by-step tutorial for you to make it easier.
 
 2. If this is your first time here, a “Create Project” button will appear. Click it. 
 If you have already created projects then you can select from them.
-![](screen_ga_selectproject.png "Create Project Button")
+![](screen_ga_selectproject.en.png "Create Project Button")
 
 4. Once you will select project, you will redirect to Project Dashboard. From there you can click on Enable API:
 Click on Analytics API and Enable it.
-![](screen_ga_enableAPI.png "Enable API")  
-![](screen_ga_selectanalyticapi.png "Select Google Analytic API")  
+![](screen_ga_enableAPI.en.png "Enable API")  
+![](screen_ga_selectanalyticapi.en.png "Select Google Analytic API")  
  
 7. Select “Credentials” from the menu at left to generate Credentials, Click on Create Credentials and select "OAuth Client ID":
-![](screen_ga_credentials.png "Create Credentials")
+![](screen_ga_credentials.en.png "Create Credentials")
 
-9. You will be ask to fill up Application Type, Name, Origin URL and Redirect URL:
-Application Type - Select "Web Application"
-Name - MailBeez Application
-Authorized Javascript Origin - remove “https://www.example.com” and replace it with the URL shown in your Google Analytics Dashboard Widget
-Authorized Redirect URL - remove “https://www.example.com/oauth2callback” and replace it with the URL shown in your Google Analytics Dashboard Widget
-Then Click on "Create" button
-![](screen_ga_createclientid.png "Fill up Information")
+9. You will be ask to fill up Application Type, Name, Origin URL and Redirect URL:  
+ **Application Type** - Select "Web Application"  
+ **Name**- MailBeez Application  
+ **Authorized Javascript Origin** - remove “https://www.example.com” and replace it with the URL shown in your Google Analytics Dashboard Widget  
+ **Authorized Redirect URL** - remove “https://www.example.com/oauth2callback” and replace it with the URL shown in your Google Analytics Dashboard Widget  
+ Then Click on "Create" button
+![](screen_ga_createclientid.en.png "Fill up Information")
 
 
 10. You will get popup with client ID and client secret. 
 The API Setup is now complete and the information you need to configure your dashboard widget is visible:
-![](screen_ga_credentails.png "Copy Credentials")
+![](screen_ga_credentials_copy.en.png "Copy Credentials")
 
 22. To complete the next step, you will need the Client ID and the Client Secret from this screen
 
