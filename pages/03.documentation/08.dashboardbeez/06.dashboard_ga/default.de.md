@@ -64,21 +64,20 @@ Einige Online-Shops haben kein Google Analytics-Tracking auf ihrer Start-Seite, 
 
 Um die Konfiguration zu erleichtern, folgen Sie bitte den folgenden Schritten:
 
->>>>Bitte Google Analytics im “alten” Layout verwenden
 
 ### Schritt 1: Erstellen Sie ein Google API Project 
 
 1. Bitte gehen Sie zu : <https://code.google.com/apis/console/> und melden Sie sich ggf. an
 
 2. Legen Sie jetzt mit Klick auf den + Button ein neues Project an:
-![](screen_ga_selectproject.de.png "Neues Projekt")
+![](Screen_ga_selectproject.de.png "Neues Projekt")
 
 4. Mit Klick auf das neu angelegte Projekt gelangen Sie zum Projekt Dashboard. Dort bitte die API aktivieren und die Analytics API hinzufügen: 
-![](screen_ga_enableAPI.de.png "Enable API")  
-![](screen_ga_selectanalyticapi.de.png "Select Google Analytic API")  
+![](Screen_ga_enableAPI.de.png "Enable API")  
+![](Screen_ga_selectanalyticapi.de.png "Select Google Analytic API")  
 
 7. Wählen Sie "Zugangsdaten" im linken Menü und erstellen Sie dann Anmeldedaten vom Typ "OAuth-Client-ID)" 
-![](screen_ga_credentials.de.png "Create Credentials")
+![](Screen_ga_credentials.de.png "Create Credentials")
 
 9. Sie werden jetzt aufgefordert, folgende Daten zu konfigurieren  
  **Anwendungstyp** - Webanwendung  
@@ -86,11 +85,11 @@ Um die Konfiguration zu erleichtern, folgen Sie bitte den folgenden Schritten:
  **Autorisierte Javascript Quellen** - bitte die URL aus dem Widget kopieren und einfügen  
  **Autorisierte Weiterleitungs-URLs** - bitte die URL aus dem Widget kopieren und einfügen  
  Klicken Sie dann auf den "Erstellen" button
-![](screen_ga_createclientid.de.png "Fill up Information")
+![](Screen_ga_createclientid.de.png "Fill up Information")
 
 
  10. Es öffnet sich ein Fenster mit `Client-ID` und `Clientschlüssel`. Die Einrichtung der API ist damit abgeschlossen und Sie sehen die im weiteren Schritt benötigten Daten
-![](screen_ga_credentials_copy.de.png "Copy Credentials")
+![](Screen_ga_credentials_copy.de.png "Copy Credentials")
 
 22. Die Daten `Client-ID` und `Clientschlüssel` bitte kopieren bzw. das Fenster offen behalten.
 
