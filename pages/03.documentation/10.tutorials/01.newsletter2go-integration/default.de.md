@@ -29,7 +29,7 @@ Emails werden in MailBeez erstellt, generiert und dann zum Versand an Newsletter
 - **Email Versand**  
   alle von MailBeez generierten Emails werden über eine Schnittstelle zum sofortigen Versand an Newsletter2Go übergeben. Hierdurch werden bestmögliche Zustellraten erzielt.
 - **Bounce-Handling**  
-  Rückläufer aufgrund ungültiger Email-Adressen werden vom Newsletter2Go-System verarbeitet und über ein Schnittstelle an MailBeez zurückgemeldet, so dass diese Email-Adressen in Zukunft ausgeschlossen werden.
+  Rückläufer aufgrund ungültiger Email-Adressen werden vom Newsletter2Go-System verarbeitet und über eine Schnittstelle an MailBeez zurückgemeldet, so dass diese Email-Adressen in Zukunft ausgeschlossen werden.
   
   
 ###Aus Sicht von Newsletter2Go

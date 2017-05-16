@@ -313,7 +313,7 @@ In `MailBeez > configuration > email engine` you need to switch to SMTP and conf
 
 ### Zen Cart: I'm getting rogue HTML code in my sent emails. How can I fix this?
 
-**Quick Solution:** configure an SMTP Email Server in `MailBeez > Configuration > Email Engine`. This will bypass the Zen Cart email function and give MailBeez full control for sending emails.
+**Quick Solution:** configure an SMTP Email Server or sending through Newsletter2Go in `MailBeez > Configuration > Email Engine`. This will bypass the Zen Cart email function and give MailBeez full control for sending emails.
 
 **2. Adapt the Zen Cart code:**
 
