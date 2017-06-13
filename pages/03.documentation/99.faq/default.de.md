@@ -319,7 +319,7 @@ In `MailBeez > configuration > email engine` you need to switch to SMTP and conf
 
 ### Zen Cart: All emails are sent in TXT, not HTML format. How can I change this?
 
-**Quick Solution:** configure a SMTP Email Server or sending throuhg Newsletter2Go in `MailBeez > Configuration > Email Engine`. This will bypass the zencart email function and give MailBeez full control for sending emails
+**Quick Solution:** configure a SMTP Email Server or sending through Newsletter2Go in `MailBeez > Configuration > Email Engine`. This will bypass the zencart email function and give MailBeez full control for sending emails
 
 Mailbeez on Zen Cart relies on the Zen Cart mail engine which queries each email address to find out which format the recipient prefers (reverse look-up). If you think all emails are sent in TXT you probably have been testing MailBeez with an email address w/o an account in your Zen Cart installation.
 
