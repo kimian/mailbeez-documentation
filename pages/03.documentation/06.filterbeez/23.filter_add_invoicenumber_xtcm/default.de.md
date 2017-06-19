@@ -28,4 +28,11 @@ module:
 
 Wenn Sie das Modul "Neue Rechnungsnummer" installiert haben, dann stellt dieses Filterbeez-Modul die passenden Platzhalter für den Einsatz in alle MailBeez Email Vorlagen zur Verfügung.
 
-Der Platzhalter wird nur befüllt, wenn das jeweilige MailBeez-Modul die "order_id" zur Verfügung stellt. Dies ist typisch bei allen Modulen der Fall, welche in Bezug auf Bestellungen arbeiten.
+Die Platzhalter werden nur befüllt, wenn das jeweilige MailBeez-Modul die "order_id" zur Verfügung stellt. Dies ist typisch bei allen Modulen der Fall, welche in Bezug auf Bestellungen arbeiten.
+
+
+
+    [[$data.order.ibn_billnr]] 
+    [[$data.order.invoice_number]] // Alias für ibn_billnr
+    [[$data.order.ibn_billdate]]
+    [[$data.order.invoice_date]] // Alias für ibn_billdate
