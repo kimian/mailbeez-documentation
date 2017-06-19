@@ -23,7 +23,7 @@ taxonomy:
 module:
     code: 'review'
     category: [mailbeez]
-    compatiblity: [comp_osc,comp_cre,comp_digi,comp_zencart,comp_xtc,comp_gambio]
+    compatiblity: [comp_osc,comp_cre,comp_digi,comp_zencart,comp_xtc,comp_xtcm2,comp_gambio]
     thumbnail: 'http://www.mailbeez.com/wp-content/uploads/downloads/thumbnails/2011/08/icon_322.png'
     pro: ''
     cert: ''

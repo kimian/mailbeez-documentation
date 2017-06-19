@@ -20,7 +20,7 @@ taxonomy:
 module:
     code: 'coupon_review_shoprating'
     category: [mailbeez]
-    compatiblity: [comp_cre,comp_zencart,comp_xtc,comp_gambio]
+    compatiblity: [comp_cre,comp_zencart,comp_xtc,comp_xtcm2,comp_gambio]
     pro: 'pro'
     cert: 'true'
     author: 'MailBeez.com'

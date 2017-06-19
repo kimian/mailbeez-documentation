@@ -21,7 +21,7 @@ taxonomy:
 module:
     code: 'config_cron_advanced'
     category: [configbeez]
-    compatiblity: [comp_osc,comp_cre,comp_digi,comp_zencart,comp_xtc,comp_gambio]
+    compatiblity: [comp_osc,comp_cre,comp_digi,comp_zencart,comp_xtc,comp_xtcm2,comp_gambio]
     thumbnail: 'http://www.mailbeez.com/wp-content/uploads/downloads/thumbnails/2013/12/icon_cron_64.png'
     pro: 'pro'
     cert: 'true'

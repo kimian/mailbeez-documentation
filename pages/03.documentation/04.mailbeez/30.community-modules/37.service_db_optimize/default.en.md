@@ -28,6 +28,7 @@ module:
         - comp_digi
         - comp_zencart
         - comp_xtc
+        - comp_xtcm2        
         - comp_gambio
     thumbnail: ''
     pro: ''

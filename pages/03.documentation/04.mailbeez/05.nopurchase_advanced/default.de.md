@@ -25,7 +25,7 @@ module:
     mc_ready: true
     code: 'nopurchase_advanced'
     category: [mailbeez]
-    compatiblity: [comp_cre,comp_zencart,comp_xtc,comp_gambio]
+    compatiblity: [comp_cre,comp_zencart,comp_xtc,comp_xtcm2,comp_gambio]
     thumbnail: 'http://www.mailbeez.com/wp-content/uploads/downloads/thumbnails/2011/10/icon_321.png'
     pro: 'pro'
     cert: 'true'

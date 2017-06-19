@@ -21,7 +21,7 @@ taxonomy:
 module:
     code: 'coupon_review_shopauskunft'
     category: [mailbeez]
-    compatiblity: [comp_cre,comp_zencart,comp_xtc,comp_gambio]
+    compatiblity: [comp_cre,comp_zencart,comp_xtc,comp_xtcm2,comp_gambio]
     thumbnail: 'http://www.mailbeez.com/wp-content/uploads/downloads/thumbnails/2012/02/icon_641.png'
     pro: 'pro'
     cert: 'true'

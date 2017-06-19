@@ -21,7 +21,7 @@ taxonomy:
 module:
     code: 'filter_check_group'
     category: [filterbeez]
-    compatiblity: [comp_zencart,comp_xtc,comp_gambio,comp_cre]
+    compatiblity: [comp_zencart,comp_xtc,comp_xtcm2,comp_gambio,comp_cre]
     thumbnail: 'http://www.mailbeez.com/wp-content/uploads/downloads/thumbnails/2011/06/icon_32.png'
     pro: 'pro'
     cert: 'true'

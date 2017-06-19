@@ -21,7 +21,7 @@ taxonomy:
 module:
     code: 'filterbeez_add_content_suite'
     category: [filterbeez]
-    compatiblity: [comp_osc,comp_cre,comp_digi,comp_zencart,comp_xtc,comp_gambio]
+    compatiblity: [comp_osc,comp_cre,comp_digi,comp_zencart,comp_xtc,comp_xtcm2,comp_gambio]
     pro: 'pro'
     cert: 'true'      
 # added collection selector

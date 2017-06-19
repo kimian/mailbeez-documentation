@@ -21,7 +21,7 @@ taxonomy:
 module:
     code: 'shoprating_advanced'
     category: [filterbeez]
-    compatiblity: [comp_osc,comp_cre,comp_digi,comp_zencart,comp_xtc,comp_gambio]
+    compatiblity: [comp_osc,comp_cre,comp_digi,comp_zencart,comp_xtc,comp_xtcm2,comp_gambio]
     pro: 'pro'
     cert: 'true' 
 

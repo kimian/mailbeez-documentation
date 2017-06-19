@@ -26,6 +26,7 @@ module:
         - comp_cre
         - comp_zencart
         - comp_xtc
+        - comp_xtcm2        
         - comp_gambio
     pro: pro
     author: MailBeez.com

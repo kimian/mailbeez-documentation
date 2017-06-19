@@ -21,7 +21,7 @@ taxonomy:
 module:
     code: 'birthday'
     category: [mailbeez]
-    compatiblity: [comp_osc,comp_cre,comp_digi,comp_zencart,comp_xtc,comp_gambio]
+    compatiblity: [comp_osc,comp_cre,comp_digi,comp_zencart,comp_xtc,comp_xtcm2,comp_gambio]
     thumbnail: 'http://www.mailbeez.com/wp-content/uploads/downloads/thumbnails/2010/06/birthday_cake_112.png'
     pro: ''
     cert: ''

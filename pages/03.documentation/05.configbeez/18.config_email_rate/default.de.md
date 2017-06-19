@@ -20,7 +20,7 @@ taxonomy:
 module:
     code: 'config_email_rate'
     category: [configbeez]
-    compatiblity: [comp_osc,comp_cre,comp_digi,comp_zencart,comp_xtc,comp_gambio]
+    compatiblity: [comp_osc,comp_cre,comp_digi,comp_zencart,comp_xtc,comp_xtcm2,comp_gambio]
     pro: 'pro'
 
 author:

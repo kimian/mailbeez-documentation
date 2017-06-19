@@ -18,7 +18,7 @@ taxonomy:
 module:
     code: 'report_analytics_advanced'
     category: [reportbeez]
-    compatiblity: [comp_osc,comp_cre,comp_digi,comp_zencart,comp_xtc,comp_gambio]
+    compatiblity: [comp_osc,comp_cre,comp_digi,comp_zencart,comp_xtc,comp_xtcm2,comp_gambio]
     pro: 'pro'
     cert: 'true'
 author:
