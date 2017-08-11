@@ -130,6 +130,7 @@ Thanks to [labrat](http://www.zen-cart.com/forum/member.php?u=2549), on his serv
 
 Choose one of the free web-based Cron-Services, e.g.
 
+> <https://www.easycron.com> 
 > <http://onlinecronservices.com>  
 > <http://cronless.com>  
 > <http://www.onlinecronjobs.com>
